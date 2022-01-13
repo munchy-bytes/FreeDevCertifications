@@ -55,15 +55,15 @@ This section lists free certification exams that are offered on specific occasio
 
 Badges will serve as proof of your certification. You can display this badge on your LinkedIn profile, promote it on your resume, or link to it from anywhere on the web.
 
-- [ArangoDB Certified Professional badge](/Badges/arangodb-certified.png) *- unofficial*
-- [DataStax Certified Cassandra Administrator badge](/Badges/DataStaxAdmin.png) *- official*
-- [DataStax Certified Cassandra Developer badge](/Badges/DataStaxDeveloper.png) *- official*
-- [MongoDB Certified DBA Associate badge](/Badges/MongoDB-admin.png) *- official*
-- [MongoDB Certified Developer Associate badge](/Badges/MongoDB-Developer.png) *- official*
-- [Neo4j 4.0 Certified badge](/Badges/Neo4j-4.jpg) *- official*
-- [Neo4j Certified Professional badge](/Badges/Neo4j-CP.jpeg) *- official*
-- [Neo4j Graph Data Science Certified badge](/Badges/Neo4j-GDS.png) *- official*
-- [Redis Certified Developer badge](/Badges/RedisCertifiedDeveloper.png) *- official*
+- <a href="/Badges/arangodb-certified.png">ArangoDB Certified Professional badge</a> *- unofficial*
+- <a href="/Badges/DataStaxAdmin.png">DataStax Certified Cassandra Administrator badge</a> *- official*
+- <a href="/Badges/DataStaxDeveloper.png">DataStax Certified Cassandra Developer badge</a> *- official*
+- <a href="/Badges/MongoDB-admin.png">MongoDB Certified DBA Associate badge</a> *- official*
+- <a href="/Badges/MongoDB-Developer.png">MongoDB Certified Developer Associate badge</a> *- official*
+- <a href="/Badges/Neo4j-4.jpg">Neo4j 4.0 Certified badge</a> *- official*
+- <a href="/Badges/Neo4j-CP.jpeg">Neo4j Certified Professional badge</a> *- official*
+- <a href="/Badges/Neo4j-GDS.png">Neo4j Graph Data Science Certified badge</a> *- official*
+- <a href="/Badges/RedisCertifiedDeveloper.png">Redis Certified Developer badge</a> *- official*
 
 ## Resources
 
