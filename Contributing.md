@@ -1,6 +1,6 @@
 # Contributing
 
-We welcome contributions from the community! If you'd like to submit a new professional certification exams **provided by tech companies**,
+We welcome contributions from the community! If you'd like to submit a new professional certification exam **provided by TECH companies**,
 please make a pull request directly and we'll review it.
 
 If you'd like to suggest a change to the data or the way it's organized here, please one up an issue
