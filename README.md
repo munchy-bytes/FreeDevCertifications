@@ -6,13 +6,13 @@ The following is a list of some official certification exams that are provided a
 
 - [ArangoDB Certified Professional](https://www.arangodb.com/learn/certification/)
 
-> Taking the ArangoDB Certified Professional exam will prove your ArangoDB expertise to your employer, clients, customers, and peers –showing your skills in the latest multi-model technology.
+> Taking the ArangoDB Certified Professional exam will prove your ArangoDB expertise to your employer, clients, customers, and peers – showing your skills in the latest multi-model technology.
 
-- [DataStax Certified Cassandra Administrator](https://www.datastax.com/dev/certifications) *- [Free vouchers are available to those who have completed the developer learning path](https://www.datastax.com/dev/certifications#rules) (initial cost is 145$)**
+- [DataStax Certified Cassandra Administrator](https://www.datastax.com/dev/certifications) *- [Free vouchers are available to those who have completed the developer learning path](https://www.datastax.com/dev/certifications#rules) (initial cost is 145$)*
 
 > The Administrator Certification is designed for professionals who install, configure, manage and tune the performance of Apache Cassandra clusters, such as database administrators, DevOps engineers and Site Reliability Engineers (SREs).
 
-- [DataStax Certified Cassandra Developer](https://www.datastax.com/dev/certifications) *- [Free vouchers are available to those who have completed the developer learning path](https://www.datastax.com/dev/certifications#rules) (initial cost is 145$)**
+- [DataStax Certified Cassandra Developer](https://www.datastax.com/dev/certifications) *- [Free vouchers are available to those who have completed the developer learning path](https://www.datastax.com/dev/certifications#rules) (initial cost is 145$)*
 
 > The Developer Certification is designed for professionals that use Apache Cassandra clusters to manage data. This includes roles such as application developers, data architects, database designers, and database administrators.
 
