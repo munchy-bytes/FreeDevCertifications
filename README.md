@@ -51,6 +51,20 @@ This section lists free certification exams that are offered on specific occasio
 - [Oracle Cloud Infrastructure](https://education.oracle.com/learn/oracle-cloud-infrastructure/pPillar_640) 
   - [Oracle Offers Free Training and Certification for Oracle Cloud Infrastructure](https://www.oracle.com/news/announcement/oracle-offers-free-training-and-certification-for-oracle-cloud-infrastructure-2021-09-08/) *- Starting September 2021 till 28 February 2022*
 
+## Badges
+
+Badges will serve as proof of your certification. You can display this badge on your LinkedIn profile, promote it on your resume, or link to it from anywhere on the web.
+
+- [ArangoDB Certified Professional badge](/Badges/arangodb-certified.png) *- unofficial*
+- [DataStax Certified Cassandra Administrator badge](/Badges/DataStaxAdmin.png) *- official*
+- [DataStax Certified Cassandra Developer badge](/Badges/DataStaxDeveloper.png) *- official*
+- [MongoDB Certified DBA Associate badge](/Badges/MongoDB-admin.png) *- official*
+- [MongoDB Certified Developer Associate badge](/Badges/MongoDB-Developer.png) *- official*
+- [Neo4j 4.0 Certified badge](/Badges/Neo4j-4.jpg) *- official*
+- [Neo4j Certified Professional badge](/Badges/Neo4j-CP.jpeg) *- official*
+- [Neo4j Graph Data Science Certified badge](/Badges/Neo4j-GDS.png) *- official*
+- [Redis Certified Developer badge](/Badges/RedisCertifiedDeveloper.png) *- official*
+
 ## Resources
 
 - [Professional database certifications provided for FREE! - Hadi Fadlallah](https://medium.com/munchy-bytes/free-data-certification-exams-you-should-take-9e716a38631)
