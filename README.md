@@ -1,4 +1,4 @@
-# Free Professional certification
+# FREE Professional Certification Exams
 
 Professional certification recognizes your knowledge and experience and enhances your professional credibility. Many students and developers cannot get certified since they cannot pay the certifications exams fees. After a little research on the internet, I found several certification exams available for free by leading tech providers and I liked to share them.
 
