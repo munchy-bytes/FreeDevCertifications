@@ -42,7 +42,9 @@ The following is a list of some official certification exams that are provided a
 
 ## Occasional free certifications
 
-This section lists free certification exams that are offered on specific occasions.
+On specific occasions, tech companies offer - mainly every year - free certification. This section lists free certification exams that are offered on specific occasions. 
+
+*Note: It is OK to add an old offers*
 
 - [Microsoft Ignite Cloud Skills Challenge](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it) *- Normally, completing the Ignite Cloud Skills challenge will give you a 50% discount.*
   - [Microsoft Ignite Cloud Skills Challenge – November 2021: Free Certification Exam](https://docs.microsoft.com/en-us/learn/certifications/microsoft-ignite-free-certification-exam-offer-nov-2021) *- November 2021*
@@ -54,6 +56,8 @@ This section lists free certification exams that are offered on specific occasio
 ## Badges
 
 Badges will serve as proof of your certification. You can display this badge on your LinkedIn profile, promote it on your resume, or link to it from anywhere on the web.
+
+*Note: this section is to list the badges of the free certification exams listed in the main section (not occasional free certifications)*
 
 - [ArangoDB Certified Professional badge](/Badges/arangodb-certified.png) *- unofficial*
 - [DataStax Certified Cassandra Administrator badge](/Badges/DataStaxAdmin.png) *- official*
