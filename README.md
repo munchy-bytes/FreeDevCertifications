@@ -46,10 +46,10 @@ On specific occasions, tech companies offer - mainly every year - free certifica
 
 *Note: It is OK to add an old offers*
 
-- [Google Professional Certificates](https://www.coursera.org/google-career-certificates)
+- [Google Professional Certificates](https://www.coursera.org/google-career-certificates) *- Usually, Financial aid is available for Google official courses at Coursera*
   - [Google Cloud promotion 2021](https://www.coursera.support/s/article/Google-Cloud-promotion?language=en_US&sfmc_id=2546465&sfmc_key=0031U00001OvidaQAB&utm_campaign=10217&utm_medium=email&utm_source=marketing) *- From October 7 to November 6, 2021*
 
-- [Microsoft Ignite Cloud Skills Challenge](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it) *- Normally, completing the Ignite Cloud Skills challenge will give you a 50% discount.*
+- [Microsoft Ignite Cloud Skills Challenge](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it) *- Usually, completing the Ignite Cloud Skills challenge will give you a 50% discount.*
   - [Microsoft Ignite Cloud Skills Challenge – November 2021: Free Certification Exam](https://docs.microsoft.com/en-us/learn/certifications/microsoft-ignite-free-certification-exam-offer-nov-2021) *- November 2021*
   - [Microsoft Ignite Cloud Skills Challenge 2020: Free Certification Exam](https://docs.microsoft.com/en-us/learn/certifications/microsoft-ignite-cloud-skills-challenge-2020-free-certification-exam) *- October 2020*
 
