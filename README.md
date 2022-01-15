@@ -44,7 +44,7 @@ The following is a list of some official certification exams that are provided a
 
 On specific occasions, tech companies offer - mainly every year - free certification. This section lists free certification exams that are offered on specific occasions. 
 
-*Note: It is OK to add an old offers*
+*Note: It is OK to add an old offer*
 
 - [Google Professional Certificates](https://www.coursera.org/google-career-certificates) *- Usually, Financial aid is available for Google official courses at Coursera*
   - [Google Cloud promotion 2021](https://www.coursera.support/s/article/Google-Cloud-promotion?language=en_US&sfmc_id=2546465&sfmc_key=0031U00001OvidaQAB&utm_campaign=10217&utm_medium=email&utm_source=marketing) *- From October 7 to November 6, 2021*
