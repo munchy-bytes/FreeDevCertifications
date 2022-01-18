@@ -67,8 +67,8 @@ Badges will serve as proof of your certification. You can display this badge on 
 - [DataStax Certified Cassandra Developer badge](/Badges/DataStaxDeveloper.png) *- official*
 - [MongoDB Certified DBA Associate badge](/Badges/MongoDB-admin.png) *- official*
 - [MongoDB Certified Developer Associate badge](/Badges/MongoDB-Developer.png) *- official*
-- [Neo4j 4.0 Certified badge](/Badges/Neo4j-4.jpg) *- official*
-- [Neo4j Certified Professional badge](/Badges/Neo4j-CP.jpeg) *- official*
+- [Neo4j 4.0 Certified badge](/Badges/Neo4j-4.png) *- official*
+- [Neo4j Certified Professional badge](/Badges/Neo4j-CP.png) *- official*
 - [Neo4j Graph Data Science Certified badge](/Badges/Neo4j-GDS.png) *- official*
 - [Redis Certified Developer badge](/Badges/RedisCertifiedDeveloper.png) *- official*
 
