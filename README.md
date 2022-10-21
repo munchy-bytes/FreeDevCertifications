@@ -40,6 +40,10 @@ The following is a list of some official certification exams that are provided a
 
 > A Redis Certified Developer understands how to use the full breadth of Redis's data structures to store and access data for a wide variety of use cases. 
 
+- [Microsoft free certifications for students](https://learn.microsoft.com/en-us/certifications/student-training-and-certification)
+
+> Microsoft fundamentals certifications are eligible for all students that can verify their enrollment at an accredited academic institution to claim the benefits.
+
 ## Occasional free certifications
 
 On specific occasions, tech companies offer - mainly every year - free certification. This section lists free certification exams that are offered on specific occasions. 
