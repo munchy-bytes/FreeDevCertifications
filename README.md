@@ -50,6 +50,9 @@ On specific occasions, tech companies offer - mainly every year - free certifica
 
 *Note: It is OK to add an old offer*
 
+- [QuerySurge Certfications](https://www.querysurge.com/certification-program)
+  - QuerySurge Holiday Discount 2022 *- Free self-paced training & certs thru 12/31/2022 ($99 value)! Learn & get certified in DevOps for Data testing, ETL testing, or QuerySurge specific certs. Use code <b>Holidays2022</b> & your corporate email.*
+
 - [Google Professional Certificates](https://www.coursera.org/google-career-certificates) *- Usually, Financial aid is available for Google official courses at Coursera*
   - [Google Cloud promotion 2021](https://www.coursera.support/s/article/Google-Cloud-promotion?language=en_US&sfmc_id=2546465&sfmc_key=0031U00001OvidaQAB&utm_campaign=10217&utm_medium=email&utm_source=marketing) *- From October 7 to November 6, 2021*
 
