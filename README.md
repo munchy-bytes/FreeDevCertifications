@@ -38,7 +38,11 @@ The following is a list of some official certification exams that are provided a
 
 - [Redis Certified Developer](https://university.redis.com/certification/)
 
-> A Redis Certified Developer understands how to use the full breadth of Redis's data structures to store and access data for a wide variety of use cases. 
+> A Redis Certified Developer understands how to use the full breadth of Redis's data structures to store and access data for a wide variety of use cases.
+ 
+- [Basic Proficiency in KNIME Analytics Platform (L1)](https://www.knime.com/certification-program)
+
+> General concepts of KNIME Analytics Platform: data access and export, data cleaning and transformation, data merging and aggregation, data visualization and reporting.
 
 - [Microsoft free certifications for students](https://learn.microsoft.com/en-us/certifications/student-training-and-certification)
 
