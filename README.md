@@ -40,9 +40,22 @@ The following is a list of some official certification exams that are provided a
 
 > General concepts of KNIME Analytics Platform: data access and export, data cleaning and transformation, data merging and aggregation, data visualization and reporting.
 
+- [HackerRank Certifications](https://www.hackerrank.com/skills-verification)
+
+> A set of skills assessments certification exams provided for free (SQL, Software Engineering, Web development, Python, R, ...).
+
 - [Microsoft free certifications for students](https://learn.microsoft.com/en-us/certifications/student-training-and-certification)
 
 > Microsoft fundamentals certifications are eligible for all students that can verify their enrollment at an accredited academic institution to claim the benefits.
+
+## Depreceated free certifications
+
+- [Redis Certified Developer](https://redis.io/university/certification/)
+
+> **Redis Certified Developer certification is no longer available as of June 30th, 2024**: New registrations for the Redis Certified Developer program will be unavailable as of June 10, 2024.
+> Learners who are currently in progress with their certification will have until June 30, 2024, to complete the certification.
+> Certificates of Completion for Redis courses will continue to be available through Redis University.
+> Digital badges for Redis Certified Developer will remain available until December 31, 2024 when all existing certifications will expire.
 
 ## Occasional free certifications
 
@@ -77,6 +90,7 @@ Badges will serve as proof of your certification. You can display this badge on 
 - [Neo4j 4.0 Certified badge](/Badges/Neo4j-4.png) *- official*
 - [Neo4j Certified Professional badge](/Badges/Neo4j-CP.png) *- official*
 - [Neo4j Graph Data Science Certified badge](/Badges/Neo4j-GDS.png) *- official*
+- [Redis Certified Developer badge](/Badges/RedisCertifiedDeveloper.png) *- official*
 
 ## Resources
 
