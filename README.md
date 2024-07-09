@@ -48,7 +48,7 @@ The following is a list of some official certification exams that are provided a
 
 > Microsoft fundamentals certifications are eligible for all students that can verify their enrollment at an accredited academic institution to claim the benefits.
 
-## Depreceated free certifications
+## Deprecated free certifications
 
 - [Redis Certified Developer](https://redis.io/university/certification/)
 
