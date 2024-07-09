@@ -35,10 +35,6 @@ The following is a list of some official certification exams that are provided a
 - [Neo4j Graph Data Science Certified](https://neo4j.com/graphacademy/neo4j-gds-certify/)
 
 > Tests you using the graph algorithms of the Neo4j Graph Data Science Library.
-
-- [Redis Certified Developer](https://university.redis.com/certification/)
-
-> A Redis Certified Developer understands how to use the full breadth of Redis's data structures to store and access data for a wide variety of use cases.
  
 - [Basic Proficiency in KNIME Analytics Platform (L1)](https://www.knime.com/certification-program)
 
@@ -81,7 +77,6 @@ Badges will serve as proof of your certification. You can display this badge on 
 - [Neo4j 4.0 Certified badge](/Badges/Neo4j-4.png) *- official*
 - [Neo4j Certified Professional badge](/Badges/Neo4j-CP.png) *- official*
 - [Neo4j Graph Data Science Certified badge](/Badges/Neo4j-GDS.png) *- official*
-- [Redis Certified Developer badge](/Badges/RedisCertifiedDeveloper.png) *- official*
 
 ## Resources
 
