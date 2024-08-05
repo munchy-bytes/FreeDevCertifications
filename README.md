@@ -91,6 +91,7 @@ Badges will serve as proof of your certification. You can display this badge on 
 - [Neo4j Certified Professional badge](/Badges/Neo4j-CP.png) *- official*
 - [Neo4j Graph Data Science Certified badge](/Badges/Neo4j-GDS.png) *- official*
 - [Redis Certified Developer badge](/Badges/RedisCertifiedDeveloper.png) *- official*
+- [Basic Proficiency in KNIME analytics platform](/Badges/basic-proficiency-in-knime.png) *- official*
 
 ## Resources
 
