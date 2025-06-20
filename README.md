@@ -63,6 +63,9 @@ On specific occasions, tech companies offer - mainly every year - free certifica
 
 *Note: It is OK to add an old offer*
 
+- [KNIME 90-Day Data Skills Certification Challenge](https://www.knime.com/blog/the-90-day-certification-challenge)
+  - 2025 90-Day Data Skills Certification Challenge *- Enroll and complete as many certifications as you can before September 14, 2025*
+
 - [QuerySurge Certfications](https://www.querysurge.com/certification-program)
   - QuerySurge Holiday Discount 2022 *- Free self-paced training & certs thru 12/31/2022 ($99 value)! Learn & get certified in DevOps for Data testing, ETL testing, or QuerySurge specific certs. Use code <b>Holidays2022</b> & your corporate email.*
 
